@@ -43,4 +43,4 @@ For any issues or queries, feel free to reach out to us at [anurag.mnda@gmail.co
 
 ## License
 
-This project is licensed under the [MIT License].
+Copyright BugRuster
